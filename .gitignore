@@ -1,0 +1,8 @@
+# Python
+__pycache__
+
+# Editor
+.vscode
+
+# Jupyter Notebooks
+.ipynb_checkpoints
